@@ -34,7 +34,6 @@ login-poo/
 │
 ├── utils/
 │   └── Sanitizacao.php            # Funções auxiliares para sanitização e validação
-
 └── README.md
 
 ## 3 Configuração do Ambiente 
@@ -47,8 +46,8 @@ login-poo/
 
 1. Clone o repositório: 
  bash
- git clone https://github.com/Gu1Henriq/Sistema-LoginPOO.git
- cd Sistema-LoginPOO
+ - git clone https://github.com/Gu1Henriq/Sistema-LoginPOO.git
+ - cd Sistema-LoginPOO
  
 2. Instale as dependências: 
  bash;
